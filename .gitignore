@@ -1,0 +1,23 @@
+# front
+co2forms-front/logs
+co2forms-front/*.log
+co2forms-front/npm-debug.log*
+co2forms-front/yarn-debug.log*
+co2forms-front/yarn-error.log*
+co2forms-front/pnpm-debug.log*
+co2forms-front/lerna-debug.log*
+
+co2forms-front/node_modules
+co2forms-front/dist
+co2forms-front/dist-ssr
+co2forms-front/*.local
+co2forms-front/.vscode/*
+co2forms-front/!.vscode/extensions.json
+
+# back
+forms-backend/node_modules
+forms-backend/build
+forms-backend/.env
+forms-backend/yarn-debug.log*
+forms-backend/yarn-error.log*
+forms-backend/npm-debug.log*
